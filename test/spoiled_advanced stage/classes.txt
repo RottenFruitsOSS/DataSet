@@ -1,0 +1,4 @@
+normal
+damage
+spoiled_early stage
+spoiled_advanced stage
